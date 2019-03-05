@@ -1,0 +1,24 @@
+.login-container {
+
+  .form-component {
+    
+    .wrapper {
+      padding: 10px;
+
+      label {
+        display: block;
+        font-size: 17px;
+      }
+      input {
+        position: relative;
+        padding: 10px;
+        width: 100%;
+      }
+    }
+    .btn {
+      padding: 10px;
+      background-color: red;
+    }
+
+  }
+}
